@@ -1,0 +1,273 @@
+{"action": "actions/checkout", "versions": ["v4", "v3", "v2"]}
+{"action": "actions/setup-python", "versions": ["v4", "v5"]}
+{"action": "codecov/codecov-action", "versions": ["v3", "v4"]}
+{"action": "actions/github-script", "versions": ["v6", "v7"]}
+{"action": "microsoft/setup-msbuild", "versions": ["v2", "v1.1", "v1", "v2.0.0", "v1.0.2"]}
+{"action": "actions/setup-node", "versions": ["v4", "v3", "v2", "v1"]}
+{"action": "actions/upload-artifact", "versions": ["v4", "v3", "v2"]}
+{"action": "microsoft/setup-dotnet", "versions": ["v1"]}
+{"action": "actions/setup-dotnet", "versions": ["v3", "v4", "v1"]}
+{"action": "actions/setup-java", "versions": ["v3", "v2", "v4"]}
+{"action": "ruby/setup-ruby", "versions": ["v1"]}
+{"action": "akhileshns/heroku-deploy", "versions": ["v3.12.12"]}
+{"action": "shivammathur/setup-php", "versions": ["v2"]}
+{"action": "gitleaks/gitleaks-action", "versions": ["v2"]}
+{"action": "actions/dependency-review-action", "versions": ["v3", "v4"]}
+{"action": "github/codeql-action/analyze", "versions": ["v2", "v3"]}
+{"action": "github/check-branch-protection", "versions": ["v1"]}
+{"action": "actions/cache", "versions": ["v3", "v4", "v2"]}
+{"action": "actions/upload-pages-artifact", "versions": ["v3", "v2", "v1"]}
+{"action": "actions/deploy-pages", "versions": ["v4", "v2", "v1", "v3"]}
+{"action": "appleboy/scp-action", "versions": ["v0.1.3"]}
+{"action": "actions/download-artifact", "versions": ["v3", "v4", "v2"]}
+{"action": "browser-actions/setup-chrome", "versions": ["v1"]}
+{"action": "webfactory/ssh-agent", "versions": ["v0.8.0", "v0.5.3"]}
+{"action": "maxim-lobanov/setup-xcode", "versions": ["v1"]}
+{"action": "peaceiris/actions-gh-pages", "versions": ["v3"]}
+{"action": "android-actions/setup-android", "versions": ["v2", "v3"]}
+{"action": "reactivecircus/android-emulator-runner", "versions": ["v2"]}
+{"action": "appleboy/ssh-action", "versions": ["v0.1.10", "v1.0.3", "v0.1.6", "v0.1.7", "v1.0.0", "v0.1.8", "master"]}
+{"action": "dorny/test-reporter", "versions": ["v1"]}
+{"action": "DeLaGuardo/setup-clojure", "versions": ["v4"]}
+{"action": "peter-evans/create-repository", "versions": ["v2", "v1"]}
+{"action": "actions/email", "versions": ["v1"]}
+{"action": "pixta-dev/repository-mirroring-action", "versions": ["v1"]}
+{"action": "actions/configure-pages", "versions": ["v3", "v4", "v2"]}
+{"action": "EnricoMi/publish-unit-test-result-action", "versions": ["v2"]}
+{"action": "shogo82148/actions-setup-perl", "versions": ["v1"]}
+{"action": "8398a7/action-slack", "versions": ["v3"]}
+{"action": "hpi-swa/setup-smalltalkCI", "versions": ["v1"]}
+{"action": "release-drafter/release-drafter", "versions": ["v5"]}
+{"action": "dawidd6/action-send-mail", "versions": ["v3"]}
+{"action": "r0adkll/upload-google-play", "versions": ["v1"]}
+{"action": "peter-evans/create-pull-request", "versions": ["v5"]}
+{"action": "jakejarvis/s3-sync-action", "versions": ["v0.5.1"]}
+{"action": "olafurpg/setup-scala", "versions": ["v13"]}
+{"action": "anchore/scan-action", "versions": ["v3"]}
+{"action": "actions/runner", "versions": ["v1"]}
+{"action": "ReactiveCircus/android-emulator-runner", "versions": ["v2"]}
+{"action": "tj-actions/changed-files", "versions": ["v41", "v42", "v43"]}
+{"action": "einaregilsson/beanstalk-deploy", "versions": ["v21", "v14"]}
+{"action": "ad-m/github-push-action", "versions": ["master"]}
+{"action": "trilom/file-changes-action", "versions": ["v1"]}
+{"action": "shimataro/ssh-key-action", "versions": ["v2"]}
+{"action": "github/codeql-action/init", "versions": ["v2"]}
+{"action": "dependency-check/Dependency-Check-Action", "versions": ["main"]}
+{"action": "softprops/action-gh-release", "versions": ["v1"]}
+{"action": "samin/mysql-action", "versions": ["v1"]}
+{"action": "actions/create-release", "versions": ["v1"]}
+{"action": "styfle/cancel-workflow-action", "versions": ["0.11.0", "0.12.0"]}
+{"action": "dorny/paths-filter", "versions": ["v2", "v3"]}
+{"action": "aws-actions/configure-aws-credentials", "versions": ["v1", "v4", "v2"]}
+{"action": "peter-evans/close-pull", "versions": ["v2"]}
+{"action": "actions/setup-go", "versions": ["v4", "v5"]}
+{"action": "mikepenz/action-junit-report", "versions": ["v3"]}
+{"action": "mikepenz/action-pmd-report", "versions": ["v1"]}
+{"action": "mikepenz/action-findbugs-report", "versions": ["v1"]}
+{"action": "actions/setup-xcode", "versions": ["v3", "v1"]}
+{"action": "actions/jekyll-build-pages", "versions": ["v1"]}
+{"action": "google-github-actions/auth", "versions": ["v1", "v2"]}
+{"action": "google-github-actions/setup-gcloud", "versions": ["v1", "v0", "v0.2.1", "v0.2.0", "v2"]}
+{"action": "docker/setup-buildx-action", "versions": ["v2", "v3", "v1"]}
+{"action": "docker/login-action", "versions": ["v2", "v3", "v1"]}
+{"action": "docker/build-push-action", "versions": ["v4", "v5", "v2"]}
+{"action": "SonarSource/sonarqube-scan-action", "versions": ["master", "v4", "v2", "v3"]}
+{"action": "crazy-max/ghaction-import-gpg", "versions": ["v6"]}
+{"action": "docker/metadata-action", "versions": ["v5", "v4"]}
+{"action": "gradle/gradle-build-action", "versions": ["v2"]}
+{"action": "azure/webapps-deploy", "versions": ["v2", "v3"]}
+{"action": "asadmansr/Firebase-Test-Lab-Action", "versions": ["v1"]}
+{"action": "ilammy/msvc-dev-cmd", "versions": ["v1"]}
+{"action": "gradle/actions/setup-gradle", "versions": ["v3"]}
+{"action": "dependency-check/Dependency-Check", "versions": ["main"]}
+{"action": "wlixcc/SFTP-Deploy-Action", "versions": ["v1.2.4"]}
+{"action": "mochajs/mocha-tap-reporter-action", "versions": ["v1"]}
+{"action": "actions-ecosystem/action-add-labels", "versions": ["v1"]}
+{"action": "actions-ecosystem/action-remove-labels", "versions": ["v1"]}
+{"action": "NuGet/setup-nuget", "versions": ["v2", "v1"]}
+{"action": "ni/labview-ci-action", "versions": ["v1"]}
+{"action": "repo-sync/github-sync", "versions": ["v2"]}
+{"action": "jfrog/setup-jfrog-cli", "versions": ["v2", "v3"]}
+{"action": "apple-actions/import-codesign-certs", "versions": ["v2"]}
+{"action": "wzieba/Firebase-Distribution-Github-Action", "versions": ["v1"]}
+{"action": "some-deployment-action", "versions": ["v1"]}
+{"action": "some-routing-action", "versions": ["v1"]}
+{"action": "docker/setup-qemu-action", "versions": ["v3", "v2"]}
+{"action": "actions/setup-clearcase", "versions": ["v1"]}
+{"action": "SamKirkland/FTP-Deploy-Action", "versions": ["v4", "v4.3.4", "3.1.1"]}
+{"action": "matlab-actions/setup-matlab", "versions": ["v1"]}
+{"action": "matlab-actions/run-command", "versions": ["v1"]}
+{"action": "Plasmo-corp/chrome-extension-upload-action", "versions": ["v1"]}
+{"action": "github/super-linter", "versions": ["v4"]}
+{"action": "sashee/tomcat-deploy-action", "versions": ["v1.1.0"]}
+{"action": "trstringer/manual-approval", "versions": ["v1"]}
+{"action": "nanasess/setup-chromedriver", "versions": ["v2"]}
+{"action": "tibdex/github-app-token", "versions": ["v2"]}
+{"action": "coverallsapp/github-action", "versions": ["v2"]}
+{"action": "actions/setup-powershell", "versions": ["v1", "v2"]}
+{"action": "returntocorp/semgrep-action", "versions": ["v1"]}
+{"action": "github/codeql-action/upload-sarif", "versions": ["v2"]}
+{"action": "r-lib/actions/setup-r", "versions": ["v2"]}
+{"action": "r-lib/actions/setup-r-dependencies", "versions": ["v2"]}
+{"action": "aws-actions/amazon-ecr-login", "versions": ["v1", "v2"]}
+{"action": "jwlawson/actions-setup-cmake", "versions": ["v1"]}
+{"action": "actions/upload-release-asset", "versions": ["v1"]}
+{"action": "game-ci/unity-builder", "versions": ["v3", "v2"]}
+{"action": "repo-sync/pull-request", "versions": ["v2"]}
+{"action": "azure/setup-helm", "versions": ["v3", "v4"]}
+{"action": "azure/k8s-set-context", "versions": ["v3"]}
+{"action": "redhat-actions/openshift-tools-installer", "versions": ["v1"]}
+{"action": "redhat-actions/oc-login", "versions": ["v1"]}
+{"action": "some-org/some-plugin", "versions": ["v1"]}
+{"action": "peterjgrainger/action-create-branch", "versions": ["v2.0.1"]}
+{"action": "OctopusDeploy/hide-environment-action", "versions": ["v1"]}
+{"action": "bazelbuild/setup-bazelisk", "versions": ["v2"]}
+{"action": "symfonycorp/security-checker-action", "versions": ["v4"]}
+{"action": "microsoft/azure-pipelines-action", "versions": ["v1"]}
+{"action": "preactjs/compressed-size-action", "versions": ["v2"]}
+{"action": "peaceiris/actions-mdbook", "versions": ["v1"]}
+{"action": "shopify/themekit", "versions": ["v1.0.0"]}
+{"action": "Azure/webapps-deploy", "versions": ["v2"]}
+{"action": "Apple-Actions/import-codesign-certs", "versions": ["v1"]}
+{"action": "actions/security-scan", "versions": ["v1"]}
+{"action": "easingthemes/ssh-deploy", "versions": ["main"]}
+{"action": "atlassian/gajira-find-issue-key", "versions": ["v3.0.0"]}
+{"action": "atlassian/gajira-build", "versions": ["v3.0.0"]}
+{"action": "zaproxy/action-baseline", "versions": ["v0.10.0"]}
+{"action": "actions/setup-ruby", "versions": ["v1"]}
+{"action": "mathieudutour/github-tag-action", "versions": ["v6"]}
+{"action": "snyk/actions/python", "versions": ["master"]}
+{"action": "peaceiris/actions-hugo", "versions": ["v2"]}
+{"action": "jurplel/install-qt-action", "versions": ["v3"]}
+{"action": "phips28/gh-action-bump-version", "versions": ["master"]}
+{"action": "peter-evans/repository-dispatch", "versions": ["v2"]}
+{"action": "sonarsource/sonarqube-quality-gate-action", "versions": ["v1.0.0"]}
+{"action": "azure/login", "versions": ["v2", "v1"]}
+{"action": "asadmansr/FirebaseTestLab-Action", "versions": ["v1.0"]}
+{"action": "game-ci/unity-setup", "versions": ["v3", "v2"]}
+{"action": "game-ci/unity-test-runner", "versions": ["v3"]}
+{"action": "azure/docker-login", "versions": ["v1"]}
+{"action": "azure/setup-kubectl", "versions": ["v3"]}
+{"action": "aws-actions/aws-cloudformation-github-deploy", "versions": ["v1"]}
+{"action": "SonarSource/sonarcloud-github-action", "versions": ["master", "v2.0.0"]}
+{"action": "erlef/setup-beam", "versions": ["v1"]}
+{"action": "haskell/actions/setup", "versions": ["v2"]}
+{"action": "actions-rust-lang/setup-rust-toolchain", "versions": ["v1"]}
+{"action": "Mattraks/delete-workflow-runs", "versions": ["v2"]}
+{"action": "groovy-actions/setup-groovy", "versions": ["v3"]}
+{"action": "google-github-actions/deploy-cloudrun", "versions": ["v1", "v2"]}
+{"action": "msys2/setup-msys2", "versions": ["v2"]}
+{"action": "SamyPesse/dropbox-upload", "versions": ["v1.0.0"]}
+{"action": "olivernybroe/setup-perforce", "versions": ["v1"]}
+{"action": "cypress-io/github-action", "versions": ["v6", "v5"]}
+{"action": "aws-actions/amazon-ecs-render-task-definition", "versions": ["v1"]}
+{"action": "aws-actions/amazon-ecs-deploy-task-definition", "versions": ["v1"]}
+{"action": "bitrise-io/bitrise-step-hockeyapp-deploy", "versions": ["v1"]}
+{"action": "Azure/functions-action", "versions": ["v1"]}
+{"action": "azure/k8s-deploy", "versions": ["v4", "v1"]}
+{"action": "subosito/flutter-action", "versions": ["v2"]}
+{"action": "hashicorp/setup-terraform", "versions": ["v2", "v3"]}
+{"action": "stCarolas/setup-maven", "versions": ["v4"]}
+{"action": "microsoft/powerplatform-actions/setup-pwsh", "versions": ["v2"]}
+{"action": "microsoft/powerplatform-actions/install-cli", "versions": ["v2"]}
+{"action": "microsoft/powerplatform-actions/authenticate", "versions": ["v2"]}
+{"action": "scrutinizerci/action", "versions": ["v1"]}
+{"action": "pipeline-utility-steps/update-yaml", "versions": ["v1"]}
+{"action": "threedotlabs/semver-bump-action", "versions": ["v1"]}
+{"action": "docker/compose-action", "versions": ["v1"]}
+{"action": "owner/action", "versions": ["latest"]}
+{"action": "axodox/axocover-upload-action", "versions": ["v1"]}
+{"action": "google-github-actions/deploy-cloud-functions", "versions": ["v1", "v0.3.0"]}
+{"action": "sabaicode/gdrive-upload-action", "versions": ["v1"]}
+{"action": "robinraju/release-downloader", "versions": ["v1", "v1.7"]}
+{"action": "ncipollo/release-action", "versions": ["v1"]}
+{"action": "azure/CLI", "versions": ["v1"]}
+{"action": "cicirello/jacoco-badge-generator", "versions": ["v2"]}
+{"action": "technote-space/toc-generator", "versions": ["v4"]}
+{"action": "warchant/appcenter-cli-action", "versions": ["v1"]}
+{"action": "sbt/setup-sbt", "versions": ["v1"]}
+{"action": "OrkoHunter/pep8speaks", "versions": ["master"]}
+{"action": "actions/upload-pipeline-artifact", "versions": ["v2"]}
+{"action": "dart-lang/setup-dart", "versions": ["v1"]}
+{"action": "benchmark-action/github-action-benchmark", "versions": ["v1"]}
+{"action": "slackapi/slack-github-action", "versions": ["v1.24.0", "v1"]}
+{"action": "goreleaser/goreleaser-action", "versions": ["v5"]}
+{"action": "google-github-actions/get-gke-credentials", "versions": ["v2"]}
+{"action": "katalon-studio/katalon-github-action", "versions": ["v1"]}
+{"action": "Apple-Actions/import-provisioning-profile", "versions": ["v1"]}
+{"action": "Apple-Actions/notarize-app", "versions": ["v1"]}
+{"action": "Apple-Actions/staple-app", "versions": ["v1"]}
+{"action": "paambaati/codeclimate-action", "versions": ["v5.0.0"]}
+{"action": "wzieba/AppCenter-Github-Action", "versions": ["v1"]}
+{"action": "pypa/gh-action-pypi-publish", "versions": ["release/v1"]}
+{"action": "netlify/actions/cli", "versions": ["master"]}
+{"action": "azure/powershell", "versions": ["v1"]}
+{"action": "reviewdog/action-checkstyle", "versions": ["v1"]}
+{"action": "netlify/actions/build", "versions": ["v3"]}
+{"action": "actions/cache/restore", "versions": ["v3"]}
+{"action": "actions/cache/save", "versions": ["v3"]}
+{"action": "mirromutth/mysql-action", "versions": ["v1.1"]}
+{"action": "w9jds/firebase-action", "versions": ["master"]}
+{"action": "dev-drprasad/delete-release-action", "versions": ["v0.2.1"]}
+{"action": "renovatebot/github-action", "versions": ["v39"]}
+{"action": "actions/stale", "versions": ["v8"]}
+{"action": "aws-actions/amplify-cli", "versions": ["v2", "v1"]}
+{"action": "mxschmitt/action-tmate", "versions": ["v3"]}
+{"action": "azure/arm-deploy", "versions": ["v1"]}
+{"action": "samkirkland/ftp-deploy-action", "versions": ["3.1.1"]}
+{"action": "FirebaseExtended/action-hosting-deploy", "versions": ["v0"]}
+{"action": "google-github-actions/compute", "versions": ["v1"]}
+{"action": "google-github-actions/deploy-appengine", "versions": ["v0.2.0"]}
+{"action": "chromaui/action", "versions": ["v1"]}
+{"action": "Azure/static-web-apps-deploy", "versions": ["v1"]}
+{"action": "stelligent/cfn_nag_action", "versions": ["master"]}
+{"action": "swift-actions/setup-swift", "versions": ["v1"]}
+{"action": "Azure/setup-oryx", "versions": ["v1"]}
+{"action": "r0adkll/sign-android-release", "versions": ["v1"]}
+{"action": "benc-uk/workflow-dispatch", "versions": ["v1"]}
+{"action": "google-github-actions/create-gce-instance", "versions": ["v1"]}
+{"action": "google-github-actions/ssh-compute", "versions": ["v2"]}
+{"action": "google-github-actions/delete-gce-instance", "versions": ["v1"]}
+{"action": "aws-actions/aws-codedeploy", "versions": ["v1"]}
+{"action": "pypa/cibuildwheel", "versions": ["v2.16.2"]}
+{"action": "instrumenta/validate-kube", "versions": ["v1"]}
+{"action": "Azure/k8s-deploy", "versions": ["v4"]}
+{"action": "xu-cheng/latex-action", "versions": ["v3"]}
+{"action": "cpina/github-action-push-to-another-repository", "versions": ["main"]}
+{"action": "zaproxy/action-full-scan", "versions": ["v0.10.0"]}
+{"action": "stefanzweifel/git-auto-commit-action", "versions": ["v5"]}
+{"action": "pnpm/action-setup", "versions": ["v2"]}
+{"action": "some-action/example", "versions": ["v1"]}
+{"action": "romeovs/lcov-reporter-action", "versions": ["v0.2.16"]}
+{"action": "pact-foundation/pact-broker-client-action", "versions": ["v1"]}
+{"action": "actions-rs/toolchain", "versions": ["v1"]}
+{"action": "my-org/private-repo/my-action", "versions": ["v1"]}
+{"action": "some-action", "versions": ["v1"]}
+{"action": "actions/slack", "versions": ["v1"]}
+{"action": "google-github-actions/deploy-cloudbuild", "versions": ["v0.5.0"]}
+{"action": "changesets/action", "versions": ["v1"]}
+{"action": "simple-elf/allure-report-action", "versions": ["v1.7"]}
+{"action": "schneegans/dynamic-badges-action", "versions": ["v1.6.0"]}
+{"action": "grafana/setup-k6", "versions": ["v1"]}
+{"action": "dawidd6/action-download-artifact", "versions": ["v4"]}
+{"action": "cycjimmy/semantic-release-action", "versions": ["v3"]}
+{"action": "graalvm/setup-graalvm", "versions": ["v1"]}
+{"action": "conda-incubator/setup-miniconda", "versions": ["v2"]}
+{"action": "terraform-linters/setup-tflint", "versions": ["v2"]}
+{"action": "amondnet/vercel-action", "versions": ["v20"]}
+{"action": "synopsys-sig/synopsys-action", "versions": ["v1.8.0"]}
+{"action": "minio/minio-action", "versions": ["edge-cicd"]}
+{"action": "requarks/changelog-action", "versions": ["v1"]}
+{"action": "gonuit/heroku-docker-deploy", "versions": ["v1.3.3"]}
+{"action": "kubescape/github-action", "versions": ["v2"]}
+{"action": "Apple-Actions/upload-testflight-build", "versions": ["v1"]}
+{"action": "epicgames/unreal-engine", "versions": ["v2"]}
+{"action": "mikefarah/yq", "versions": ["v4"]}
+{"action": "ArtiomTr/jest-coverage-report-action", "versions": ["v2"]}
+{"action": "fwal/setup-swift", "versions": ["v1"]}
+{"action": "microsoft/powershell", "versions": ["v1"]}
+{"action": "anothrNick/github-tag-action", "versions": ["1.67.0"]}
+{"action": "mikepenz/action-jmeter", "versions": ["v3"]}
+{"action": "gradle/wrapper-validation-action", "versions": ["v1"]}
+{"action": "azure/azure-cli", "versions": ["v1"]}
+{"action": "johnbeynon/appharbor-action", "versions": ["v1.0.0"]}

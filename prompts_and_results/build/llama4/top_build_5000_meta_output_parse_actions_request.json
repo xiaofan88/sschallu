@@ -1,0 +1,419 @@
+{"action": "actions/checkout", "versions": ["v3", "v2", "master"], "request_url": "https://github.com/actions/checkout", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-python", "versions": ["v4", "v2", "v3"], "request_url": "https://github.com/actions/setup-python", "status_code": 200, "redirected_url": ""}
+{"action": "actions/upload-artifact", "versions": ["v3", "v2"], "request_url": "https://github.com/actions/upload-artifact", "status_code": 200, "redirected_url": ""}
+{"action": "docker/login-action", "versions": ["v2", "v1"], "request_url": "https://github.com/docker/login-action", "status_code": 200, "redirected_url": ""}
+{"action": "docker/setup-qemu-action", "versions": ["v2"], "request_url": "https://github.com/docker/setup-qemu-action", "status_code": 200, "redirected_url": ""}
+{"action": "docker/setup-buildx-action", "versions": ["v2", "v1"], "request_url": "https://github.com/docker/setup-buildx-action", "status_code": 200, "redirected_url": ""}
+{"action": "docker/build-push-action", "versions": ["v4", "v3", "v2"], "request_url": "https://github.com/docker/build-push-action", "status_code": 200, "redirected_url": ""}
+{"action": "kubernetes/deploy-action", "versions": ["v1"], "request_url": "https://github.com/kubernetes/deploy-action", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/setup-msbuild", "versions": ["v1", "v1.1"], "request_url": "https://github.com/microsoft/setup-msbuild", "status_code": 200, "redirected_url": ""}
+{"action": "easingthemes/ssh-deploy", "versions": ["v2.1.5", "v2.1.6"], "request_url": "https://github.com/easingthemes/ssh-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "heroku/login", "versions": ["v1", "v2"], "request_url": "https://github.com/heroku/login", "status_code": 404, "redirected_url": ""}
+{"action": "ruby/setup-ruby", "versions": ["v1"], "request_url": "https://github.com/ruby/setup-ruby", "status_code": 200, "redirected_url": ""}
+{"action": "heroku/deploy-v2", "versions": ["v1"], "request_url": "https://github.com/heroku/deploy-v2", "status_code": 404, "redirected_url": ""}
+{"action": "appleboy/scp-action", "versions": ["v2", "master", "v1", "v1.0.0", "v0.1.4"], "request_url": "https://github.com/appleboy/scp-action", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-java", "versions": ["v2", "v3"], "request_url": "https://github.com/actions/setup-java", "status_code": 200, "redirected_url": ""}
+{"action": "shivammathur/setup-php", "versions": ["v2"], "request_url": "https://github.com/shivammathur/setup-php", "status_code": 200, "redirected_url": ""}
+{"action": "codecov/codecov-action", "versions": ["v1", "v3", "v2"], "request_url": "https://github.com/codecov/codecov-action", "status_code": 200, "redirected_url": ""}
+{"action": "5monkeys/cover-status-action", "versions": ["v1"], "request_url": "https://github.com/5monkeys/cover-status-action", "status_code": 404, "redirected_url": ""}
+{"action": "ad-m/github-push-action", "versions": ["master", "v0.6.0"], "request_url": "https://github.com/ad-m/github-push-action", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-dotnet", "versions": ["v1", "v2", "v3"], "request_url": "https://github.com/actions/setup-dotnet", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-node", "versions": ["v2", "v3"], "request_url": "https://github.com/actions/setup-node", "status_code": 200, "redirected_url": ""}
+{"action": "browserstack/github-actions/setup-local", "versions": ["v1"], "request_url": "https://github.com/browserstack/github-actions/setup-local", "status_code": 404, "redirected_url": ""}
+{"action": "NuGet/setup-nuget", "versions": ["v1"], "request_url": "https://github.com/NuGet/setup-nuget", "status_code": 200, "redirected_url": ""}
+{"action": "trufflesecurity/trufflehog", "versions": ["v3"], "request_url": "https://github.com/trufflesecurity/trufflehog", "status_code": 200, "redirected_url": ""}
+{"action": "github/codeql-action", "versions": ["v2"], "request_url": "https://github.com/github/codeql-action", "status_code": 200, "redirected_url": ""}
+{"action": "github/dependency-review-action", "versions": ["v2"], "request_url": "https://github.com/github/dependency-review-action", "status_code": 404, "redirected_url": ""}
+{"action": "github/codeql-action/upload-sarif", "versions": ["v2", "v1"], "request_url": "https://github.com/github/codeql-action/upload-sarif", "status_code": 404, "redirected_url": ""}
+{"action": "actions/cache", "versions": ["v3", "v2"], "request_url": "https://github.com/actions/cache", "status_code": 200, "redirected_url": ""}
+{"action": "actions/download-artifact", "versions": ["v3", "v2"], "request_url": "https://github.com/actions/download-artifact", "status_code": 200, "redirected_url": ""}
+{"action": "actions/github-script", "versions": ["v6", "v5"], "request_url": "https://github.com/actions/github-script", "status_code": 200, "redirected_url": ""}
+{"action": "peaceiris/actions-gh-pages", "versions": ["v3"], "request_url": "https://github.com/peaceiris/actions-gh-pages", "status_code": 200, "redirected_url": ""}
+{"action": "delphi-build/setup-delphi", "versions": ["v1"], "request_url": "https://github.com/delphi-build/setup-delphi", "status_code": 404, "redirected_url": ""}
+{"action": "brandedoutcast/publish-nuget", "versions": ["v1"], "request_url": "https://github.com/brandedoutcast/publish-nuget", "status_code": 200, "redirected_url": ""}
+{"action": "tibdex/github-app-token", "versions": ["v1"], "request_url": "https://github.com/tibdex/github-app-token", "status_code": 200, "redirected_url": ""}
+{"action": "microsoft/tfs-actions", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-actions", "status_code": 404, "redirected_url": ""}
+{"action": "android-actions/setup-android", "versions": ["v2", "v3"], "request_url": "https://github.com/android-actions/setup-android", "status_code": 200, "redirected_url": ""}
+{"action": "coactions/setup-xvfb", "versions": ["v1"], "request_url": "https://github.com/coactions/setup-xvfb", "status_code": 200, "redirected_url": ""}
+{"action": "webfactory/ssh-agent", "versions": ["v0.5.4", "v0.5.3"], "request_url": "https://github.com/webfactory/ssh-agent", "status_code": 200, "redirected_url": ""}
+{"action": "dawidd6/action-send-mail", "versions": ["v3"], "request_url": "https://github.com/dawidd6/action-send-mail", "status_code": 200, "redirected_url": ""}
+{"action": "unsplash/comment-on-pr", "versions": ["v1"], "request_url": "https://github.com/unsplash/comment-on-pr", "status_code": 200, "redirected_url": ""}
+{"action": "EnricoMi/publish-unit-test-result-action", "versions": ["v1", "v2"], "request_url": "https://github.com/EnricoMi/publish-unit-test-result-action", "status_code": 200, "redirected_url": ""}
+{"action": "darling-data/analysisservices-deployment-action", "versions": ["v1"], "request_url": "https://github.com/darling-data/analysisservices-deployment-action", "status_code": 404, "redirected_url": ""}
+{"action": "darling-data/reporting-services-deployment-action", "versions": ["v1"], "request_url": "https://github.com/darling-data/reporting-services-deployment-action", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/tfs-build-actions", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-build-actions", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/tfs-deploy-actions", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-deploy-actions", "status_code": 404, "redirected_url": ""}
+{"action": "sonarsource/sonarqube-scan-action", "versions": ["master"], "request_url": "https://github.com/sonarsource/sonarqube-scan-action", "status_code": 200, "redirected_url": ""}
+{"action": "softprops/action-gh-release", "versions": ["v1"], "request_url": "https://github.com/softprops/action-gh-release", "status_code": 200, "redirected_url": ""}
+{"action": "sonarwhal/code-coverage-reporter-action", "versions": ["v1"], "request_url": "https://github.com/sonarwhal/code-coverage-reporter-action", "status_code": 404, "redirected_url": ""}
+{"action": "appleboy/ssh-action", "versions": ["v1", "master", "v0.1.4"], "request_url": "https://github.com/appleboy/ssh-action", "status_code": 200, "redirected_url": ""}
+{"action": "peter-evans/repository-dispatch", "versions": ["v1", "v2"], "request_url": "https://github.com/peter-evans/repository-dispatch", "status_code": 200, "redirected_url": ""}
+{"action": "shogo82148/actions-setup-perl", "versions": ["v1"], "request_url": "https://github.com/shogo82148/actions-setup-perl", "status_code": 200, "redirected_url": ""}
+{"action": "tomcat-action/tomcat-deploy", "versions": ["v1"], "request_url": "https://github.com/tomcat-action/tomcat-deploy", "status_code": 404, "redirected_url": ""}
+{"action": "JasonEtco/create-an-issue", "versions": ["v2"], "request_url": "https://github.com/JasonEtco/create-an-issue", "status_code": 200, "redirected_url": ""}
+{"action": "r0adkll/upload-google-play", "versions": ["v1"], "request_url": "https://github.com/r0adkll/upload-google-play", "status_code": 200, "redirected_url": ""}
+{"action": "jenkinsci/email-ext-action", "versions": ["v1"], "request_url": "https://github.com/jenkinsci/email-ext-action", "status_code": 404, "redirected_url": ""}
+{"action": "peter-evans/create-pull-request", "versions": ["v4", "v3"], "request_url": "https://github.com/peter-evans/create-pull-request", "status_code": 200, "redirected_url": ""}
+{"action": "potiuk/get-workflow-run-info-action", "versions": ["v1"], "request_url": "https://github.com/potiuk/get-workflow-run-info-action", "status_code": 404, "redirected_url": ""}
+{"action": "timdelphi/setup-rad-studio", "versions": ["v1"], "request_url": "https://github.com/timdelphi/setup-rad-studio", "status_code": 404, "redirected_url": ""}
+{"action": "rtCamp/action-slack-notify", "versions": ["v2"], "request_url": "https://github.com/rtCamp/action-slack-notify", "status_code": 200, "redirected_url": ""}
+{"action": "nexus-actions/nexus-login", "versions": ["v1"], "request_url": "https://github.com/nexus-actions/nexus-login", "status_code": 404, "redirected_url": ""}
+{"action": "appleboy/telegram-action", "versions": ["v1", "master"], "request_url": "https://github.com/appleboy/telegram-action", "status_code": 200, "redirected_url": ""}
+{"action": "einaregilsson/beanstalk-deploy", "versions": ["v14", "v21"], "request_url": "https://github.com/einaregilsson/beanstalk-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "azure/login", "versions": ["v1"], "request_url": "https://github.com/azure/login", "status_code": 200, "redirected_url": ""}
+{"action": "azure/webapps-deploy", "versions": ["v2"], "request_url": "https://github.com/azure/webapps-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "jakejarvis/s3-sync-action", "versions": ["v2", "master"], "request_url": "https://github.com/jakejarvis/s3-sync-action", "status_code": 200, "redirected_url": ""}
+{"action": "heroku/login-action", "versions": ["v2", "v1"], "request_url": "https://github.com/heroku/login-action", "status_code": 404, "redirected_url": ""}
+{"action": "8398a7/action-slack", "versions": ["v3"], "request_url": "https://github.com/8398a7/action-slack", "status_code": 200, "redirected_url": ""}
+{"action": "saucelabs/sauce-connect-action", "versions": ["v1"], "request_url": "https://github.com/saucelabs/sauce-connect-action", "status_code": 200, "redirected_url": ""}
+{"action": "jacobtomlinson/gha-replace-string", "versions": ["v2"], "request_url": "https://github.com/jacobtomlinson/gha-replace-string", "status_code": 404, "redirected_url": ""}
+{"action": "google-github-actions/auth", "versions": ["v0", "v1"], "request_url": "https://github.com/google-github-actions/auth", "status_code": 200, "redirected_url": ""}
+{"action": "browser-actions/setup-chrome", "versions": ["v1"], "request_url": "https://github.com/browser-actions/setup-chrome", "status_code": 200, "redirected_url": ""}
+{"action": "tj-actions/changed-files", "versions": ["v34", "v14"], "request_url": "https://github.com/tj-actions/changed-files", "status_code": 200, "redirected_url": ""}
+{"action": "SamKirkland/FTP-Deploy-Action", "versions": ["v4.3.4", "v4.3.0", "4.0.0"], "request_url": "https://github.com/SamKirkland/FTP-Deploy-Action", "status_code": 200, "redirected_url": ""}
+{"action": "darenm/Setup-VSBuildTools", "versions": ["v1"], "request_url": "https://github.com/darenm/Setup-VSBuildTools", "status_code": 404, "redirected_url": ""}
+{"action": "maxim-lobanov/setup-xcode", "versions": ["v1"], "request_url": "https://github.com/maxim-lobanov/setup-xcode", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-xcode", "versions": ["v1"], "request_url": "https://github.com/actions/setup-xcode", "status_code": 404, "redirected_url": ""}
+{"action": "redhat-actions/oc-login", "versions": ["v1"], "request_url": "https://github.com/redhat-actions/oc-login", "status_code": 200, "redirected_url": ""}
+{"action": "lewagon/wait-on-check-action", "versions": ["v1", "v1.3.0"], "request_url": "https://github.com/lewagon/wait-on-check-action", "status_code": 200, "redirected_url": ""}
+{"action": "actions/dependency-review-action", "versions": ["v2"], "request_url": "https://github.com/actions/dependency-review-action", "status_code": 200, "redirected_url": ""}
+{"action": "CasperWA/push-protected", "versions": ["v1"], "request_url": "https://github.com/CasperWA/push-protected", "status_code": 200, "redirected_url": ""}
+{"action": "nuget/setup-nuget", "versions": ["v1"], "request_url": "https://github.com/nuget/setup-nuget", "status_code": 200, "redirected_url": ""}
+{"action": "actions/create-release", "versions": ["v1"], "request_url": "https://github.com/actions/create-release", "status_code": 200, "redirected_url": ""}
+{"action": "actions/upload-release-asset", "versions": ["v1"], "request_url": "https://github.com/actions/upload-release-asset", "status_code": 200, "redirected_url": ""}
+{"action": "mirromutth/mysql-action", "versions": ["v1.1"], "request_url": "https://github.com/mirromutth/mysql-action", "status_code": 200, "redirected_url": ""}
+{"action": "peter-evans/create-or-update-secret", "versions": ["v2"], "request_url": "https://github.com/peter-evans/create-or-update-secret", "status_code": 404, "redirected_url": ""}
+{"action": "nanasess/setup-chromedriver", "versions": ["v1"], "request_url": "https://github.com/nanasess/setup-chromedriver", "status_code": 200, "redirected_url": ""}
+{"action": "conda-incubator/setup-miniconda", "versions": ["v2"], "request_url": "https://github.com/conda-incubator/setup-miniconda", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/configure-aws-credentials", "versions": ["v1", "v2"], "request_url": "https://github.com/aws-actions/configure-aws-credentials", "status_code": 200, "redirected_url": ""}
+{"action": "microsoft/setup-tfs", "versions": ["v1"], "request_url": "https://github.com/microsoft/setup-tfs", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/vsts-action-deploy", "versions": ["master"], "request_url": "https://github.com/microsoft/vsts-action-deploy", "status_code": 404, "redirected_url": ""}
+{"action": "actions/configure-pages", "versions": ["v3", "v2"], "request_url": "https://github.com/actions/configure-pages", "status_code": 200, "redirected_url": ""}
+{"action": "actions/upload-pages-artifact", "versions": ["v2", "v1"], "request_url": "https://github.com/actions/upload-pages-artifact", "status_code": 200, "redirected_url": ""}
+{"action": "actions/deploy-pages", "versions": ["v2", "v1"], "request_url": "https://github.com/actions/deploy-pages", "status_code": 200, "redirected_url": ""}
+{"action": "stCarolas/setup-maven", "versions": ["v4"], "request_url": "https://github.com/stCarolas/setup-maven", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-go", "versions": ["v3", "v2"], "request_url": "https://github.com/actions/setup-go", "status_code": 200, "redirected_url": ""}
+{"action": "dorny/test-reporter", "versions": ["v1"], "request_url": "https://github.com/dorny/test-reporter", "status_code": 200, "redirected_url": ""}
+{"action": "reactivecircus/android-emulator-runner", "versions": ["v2"], "request_url": "https://github.com/reactivecircus/android-emulator-runner", "status_code": 200, "redirected_url": ""}
+{"action": "mikepenz/action-junit-report", "versions": ["v2", "v3"], "request_url": "https://github.com/mikepenz/action-junit-report", "status_code": 200, "redirected_url": ""}
+{"action": "kooboo/actions/login", "versions": ["v1"], "request_url": "https://github.com/kooboo/actions/login", "status_code": 404, "redirected_url": ""}
+{"action": "pypa/gh-action-pypi-deploy", "versions": ["v1"], "request_url": "https://github.com/pypa/gh-action-pypi-deploy", "status_code": 404, "redirected_url": ""}
+{"action": "docker/metadata-action", "versions": ["v4"], "request_url": "https://github.com/docker/metadata-action", "status_code": 200, "redirected_url": ""}
+{"action": "sonarcloud/sonarcloud-login-action", "versions": ["v1"], "request_url": "https://github.com/sonarcloud/sonarcloud-login-action", "status_code": 404, "redirected_url": ""}
+{"action": "sonarcloud/sonarcloud-scan-action", "versions": ["v1"], "request_url": "https://github.com/sonarcloud/sonarcloud-scan-action", "status_code": 404, "redirected_url": ""}
+{"action": "sonarcloud/sonarcloud-quality-gate-action", "versions": ["v1"], "request_url": "https://github.com/sonarcloud/sonarcloud-quality-gate-action", "status_code": 404, "redirected_url": ""}
+{"action": "actions/jekyll-build-pages", "versions": ["v1"], "request_url": "https://github.com/actions/jekyll-build-pages", "status_code": 200, "redirected_url": ""}
+{"action": "kubernetes/kubectl", "versions": ["v1"], "request_url": "https://github.com/kubernetes/kubectl", "status_code": 200, "redirected_url": ""}
+{"action": "juliangruber/approve-pull-request-action", "versions": ["v1"], "request_url": "https://github.com/juliangruber/approve-pull-request-action", "status_code": 200, "redirected_url": ""}
+{"action": "juliangruber/merge-pull-request-action", "versions": ["v1"], "request_url": "https://github.com/juliangruber/merge-pull-request-action", "status_code": 200, "redirected_url": ""}
+{"action": "scacap/action-surefire-report", "versions": ["v1"], "request_url": "https://github.com/scacap/action-surefire-report", "status_code": 200, "redirected_url": ""}
+{"action": "AppHarbor/deploy", "versions": ["v1"], "request_url": "https://github.com/AppHarbor/deploy", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/variable-substitution", "versions": ["v1"], "request_url": "https://github.com/microsoft/variable-substitution", "status_code": 200, "redirected_url": ""}
+{"action": "actions/create-github-app-token", "versions": ["v1"], "request_url": "https://github.com/actions/create-github-app-token", "status_code": 200, "redirected_url": ""}
+{"action": "pascalgn/automerge-action", "versions": ["v0.15.3", "v0.15.6"], "request_url": "https://github.com/pascalgn/automerge-action", "status_code": 200, "redirected_url": ""}
+{"action": "JetBrains/teamcity-inspections-runner", "versions": ["v1"], "request_url": "https://github.com/JetBrains/teamcity-inspections-runner", "status_code": 404, "redirected_url": ""}
+{"action": "matomo-org/database-backup-action", "versions": ["v1"], "request_url": "https://github.com/matomo-org/database-backup-action", "status_code": 404, "redirected_url": ""}
+{"action": "xl-deploy/action-login", "versions": ["v1"], "request_url": "https://github.com/xl-deploy/action-login", "status_code": 404, "redirected_url": ""}
+{"action": "xl-deploy/action-xl-release-plugin", "versions": ["v1"], "request_url": "https://github.com/xl-deploy/action-xl-release-plugin", "status_code": 404, "redirected_url": ""}
+{"action": "xl-deploy/action-logout", "versions": ["v1"], "request_url": "https://github.com/xl-deploy/action-logout", "status_code": 404, "redirected_url": ""}
+{"action": "sonarsource/sonarqube-quality-gate-action", "versions": ["v1.0.0"], "request_url": "https://github.com/sonarsource/sonarqube-quality-gate-action", "status_code": 200, "redirected_url": ""}
+{"action": "actions-rs/install", "versions": ["v0.1"], "request_url": "https://github.com/actions-rs/install", "status_code": 200, "redirected_url": ""}
+{"action": "kubectl/deploy-action", "versions": ["v1"], "request_url": "https://github.com/kubectl/deploy-action", "status_code": 404, "redirected_url": ""}
+{"action": "SonarSource/sonarcloud-github-action", "versions": ["master"], "request_url": "https://github.com/SonarSource/sonarcloud-github-action", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-github-cli", "versions": ["v2"], "request_url": "https://github.com/actions/setup-github-cli", "status_code": 404, "redirected_url": ""}
+{"action": "drone/drone-runner-action", "versions": ["v1"], "request_url": "https://github.com/drone/drone-runner-action", "status_code": 404, "redirected_url": ""}
+{"action": "schneegans/dynamic-badges-action", "versions": ["v1.1.0"], "request_url": "https://github.com/schneegans/dynamic-badges-action", "status_code": 200, "redirected_url": ""}
+{"action": "sonarcloud/sonarcloud-login", "versions": ["v1"], "request_url": "https://github.com/sonarcloud/sonarcloud-login", "status_code": 404, "redirected_url": ""}
+{"action": "matlab-actions/setup-matlab", "versions": ["v1"], "request_url": "https://github.com/matlab-actions/setup-matlab", "status_code": 200, "redirected_url": ""}
+{"action": "hmarr/auto-approve-action", "versions": ["v3"], "request_url": "https://github.com/hmarr/auto-approve-action", "status_code": 200, "redirected_url": ""}
+{"action": "actions/hipchat-notify", "versions": ["v1"], "request_url": "https://github.com/actions/hipchat-notify", "status_code": 404, "redirected_url": ""}
+{"action": "swagger-api/swagger-cli", "versions": ["v1"], "request_url": "https://github.com/swagger-api/swagger-cli", "status_code": 404, "redirected_url": ""}
+{"action": "kdzwinel/webstore-upload", "versions": ["v1"], "request_url": "https://github.com/kdzwinel/webstore-upload", "status_code": 404, "redirected_url": ""}
+{"action": "bobheadxi/deployments", "versions": ["v1"], "request_url": "https://github.com/bobheadxi/deployments", "status_code": 200, "redirected_url": ""}
+{"action": "scottbrenner/nunit-test-reporter", "versions": ["v1"], "request_url": "https://github.com/scottbrenner/nunit-test-reporter", "status_code": 404, "redirected_url": ""}
+{"action": "hashicorp/setup-vagrant", "versions": ["v1"], "request_url": "https://github.com/hashicorp/setup-vagrant", "status_code": 404, "redirected_url": ""}
+{"action": "EnricoMi/publish-unit-test-results-action", "versions": ["v2"], "request_url": "https://github.com/EnricoMi/publish-unit-test-results-action", "status_code": 404, "redirected_url": ""}
+{"action": "dependabot/dependabot-core", "versions": ["v2"], "request_url": "https://github.com/dependabot/dependabot-core", "status_code": 200, "redirected_url": ""}
+{"action": "snyk/actions", "versions": ["v1"], "request_url": "https://github.com/snyk/actions", "status_code": 200, "redirected_url": ""}
+{"action": "haskell/actions/setup", "versions": ["v1", "v2"], "request_url": "https://github.com/haskell/actions/setup", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/vsts-rest-python-sdk", "versions": ["v0.1.0"], "request_url": "https://github.com/microsoft/vsts-rest-python-sdk", "status_code": 404, "redirected_url": ""}
+{"action": "chrislennon/action-badge", "versions": ["v1.1.0"], "request_url": "https://github.com/chrislennon/action-badge", "status_code": 404, "redirected_url": ""}
+{"action": "mxschmitt/action-tmate", "versions": ["v3"], "request_url": "https://github.com/mxschmitt/action-tmate", "status_code": 200, "redirected_url": ""}
+{"action": "peterjgrainger/action-sharepoint-upload", "versions": ["v2"], "request_url": "https://github.com/peterjgrainger/action-sharepoint-upload", "status_code": 404, "redirected_url": ""}
+{"action": "peterjgrainger/action-sharepoint-deploy", "versions": ["v2"], "request_url": "https://github.com/peterjgrainger/action-sharepoint-deploy", "status_code": 404, "redirected_url": ""}
+{"action": "mono/setup-mono", "versions": ["v1"], "request_url": "https://github.com/mono/setup-mono", "status_code": 404, "redirected_url": ""}
+{"action": "jpollack91/stale-poll", "versions": ["v1"], "request_url": "https://github.com/jpollack91/stale-poll", "status_code": 404, "redirected_url": ""}
+{"action": "actions/http-client", "versions": ["v1"], "request_url": "https://github.com/actions/http-client", "status_code": 200, "redirected_url": ""}
+{"action": "GitHubSecurityLab/actions-sensitive-data-scanner", "versions": ["v1"], "request_url": "https://github.com/GitHubSecurityLab/actions-sensitive-data-scanner", "status_code": 404, "redirected_url": ""}
+{"action": "npm/login-action", "versions": ["v1"], "request_url": "https://github.com/npm/login-action", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/vsts-publish-test-results", "versions": ["v1"], "request_url": "https://github.com/microsoft/vsts-publish-test-results", "status_code": 404, "redirected_url": ""}
+{"action": "r-lib/actions/setup-r", "versions": ["v1"], "request_url": "https://github.com/r-lib/actions/setup-r", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/action-psscriptanalyzer", "versions": ["v1"], "request_url": "https://github.com/microsoft/action-psscriptanalyzer", "status_code": 404, "redirected_url": ""}
+{"action": "aws-actions/amazon-ecr-login", "versions": ["v1"], "request_url": "https://github.com/aws-actions/amazon-ecr-login", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/amazon-ecs-render-task-definition", "versions": ["v1"], "request_url": "https://github.com/aws-actions/amazon-ecs-render-task-definition", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/amazon-ecs-deploy-task-definition", "versions": ["v1"], "request_url": "https://github.com/aws-actions/amazon-ecs-deploy-task-definition", "status_code": 200, "redirected_url": ""}
+{"action": "reviewdog/action-eslint", "versions": ["v1"], "request_url": "https://github.com/reviewdog/action-eslint", "status_code": 200, "redirected_url": ""}
+{"action": "concourse/ci-setup-github-action", "versions": ["v1"], "request_url": "https://github.com/concourse/ci-setup-github-action", "status_code": 404, "redirected_url": ""}
+{"action": "webbertakken/unity-request-activation-file", "versions": ["v1"], "request_url": "https://github.com/webbertakken/unity-request-activation-file", "status_code": 200, "redirected_url": "https://github.com/game-ci/unity-request-activation-file"}
+{"action": "webbertakken/unity-activate", "versions": ["v1"], "request_url": "https://github.com/webbertakken/unity-activate", "status_code": 200, "redirected_url": "https://github.com/game-ci/unity-activate"}
+{"action": "benc-uk/workflow-dispatch", "versions": ["v1"], "request_url": "https://github.com/benc-uk/workflow-dispatch", "status_code": 200, "redirected_url": ""}
+{"action": "coroo/coveralls-github-actions", "versions": ["v1"], "request_url": "https://github.com/coroo/coveralls-github-actions", "status_code": 404, "redirected_url": ""}
+{"action": "madrapps/jacoco-report", "versions": ["v1"], "request_url": "https://github.com/madrapps/jacoco-report", "status_code": 200, "redirected_url": ""}
+{"action": "MishaKav/cover-comment", "versions": ["v1"], "request_url": "https://github.com/MishaKav/cover-comment", "status_code": 404, "redirected_url": ""}
+{"action": "kubectl-scale-action", "versions": ["v1"], "request_url": "https://github.com/kubectl-scale-action", "status_code": 404, "redirected_url": ""}
+{"action": "kubectl-verify-action", "versions": ["v1"], "request_url": "https://github.com/kubectl-verify-action", "status_code": 404, "redirected_url": ""}
+{"action": "coverallsapp/github-action", "versions": ["v1.1.2", "master", "v2"], "request_url": "https://github.com/coverallsapp/github-action", "status_code": 200, "redirected_url": ""}
+{"action": "cloudbees-io/github-actions-login", "versions": ["v1"], "request_url": "https://github.com/cloudbees-io/github-actions-login", "status_code": 404, "redirected_url": ""}
+{"action": "tj-actions/coverage-badge", "versions": ["v1"], "request_url": "https://github.com/tj-actions/coverage-badge", "status_code": 404, "redirected_url": ""}
+{"action": "azure/setup-helm", "versions": ["v3", "v1"], "request_url": "https://github.com/azure/setup-helm", "status_code": 200, "redirected_url": ""}
+{"action": "azure/aks-set-context", "versions": ["v1"], "request_url": "https://github.com/azure/aks-set-context", "status_code": 200, "redirected_url": ""}
+{"action": "actions/send-notification", "versions": ["v1"], "request_url": "https://github.com/actions/send-notification", "status_code": 404, "redirected_url": ""}
+{"action": "jfrog/setup-jfrog-cli", "versions": ["v3", "v1"], "request_url": "https://github.com/jfrog/setup-jfrog-cli", "status_code": 200, "redirected_url": ""}
+{"action": "some-plugin/action", "versions": ["v1"], "request_url": "https://github.com/some-plugin/action", "status_code": 404, "redirected_url": ""}
+{"action": "actions/setup-powershell", "versions": ["v1"], "request_url": "https://github.com/actions/setup-powershell", "status_code": 404, "redirected_url": ""}
+{"action": "jrei/systemd-debian", "versions": ["v1"], "request_url": "https://github.com/jrei/systemd-debian", "status_code": 404, "redirected_url": ""}
+{"action": "andstor/copycat-action", "versions": ["v3"], "request_url": "https://github.com/andstor/copycat-action", "status_code": 200, "redirected_url": ""}
+{"action": "google-github-actions/setup-gcloud", "versions": ["v0", "v1"], "request_url": "https://github.com/google-github-actions/setup-gcloud", "status_code": 200, "redirected_url": ""}
+{"action": "EnricoMi/publish-unit-tests-result-action", "versions": ["v1"], "request_url": "https://github.com/EnricoMi/publish-unit-tests-result-action", "status_code": 404, "redirected_url": ""}
+{"action": "drone-plugins/drone-docker", "versions": ["master"], "request_url": "https://github.com/drone-plugins/drone-docker", "status_code": 200, "redirected_url": ""}
+{"action": "psf/black", "versions": ["21.5b1"], "request_url": "https://github.com/psf/black", "status_code": 200, "redirected_url": ""}
+{"action": "azure/get-keyvault-secret", "versions": ["v1"], "request_url": "https://github.com/azure/get-keyvault-secret", "status_code": 404, "redirected_url": ""}
+{"action": "bazelbuild/setup-bazelisk", "versions": ["v1"], "request_url": "https://github.com/bazelbuild/setup-bazelisk", "status_code": 200, "redirected_url": ""}
+{"action": "sebastianpopp/ftp-action", "versions": ["v1"], "request_url": "https://github.com/sebastianpopp/ftp-action", "status_code": 200, "redirected_url": ""}
+{"action": "ssh-deploy", "versions": ["main"], "request_url": "https://github.com/ssh-deploy", "status_code": 404, "redirected_url": ""}
+{"action": "cli/cli", "versions": ["v2"], "request_url": "https://github.com/cli/cli", "status_code": 200, "redirected_url": ""}
+{"action": "davidgomes/code-coverage-action", "versions": ["v1"], "request_url": "https://github.com/davidgomes/code-coverage-action", "status_code": 404, "redirected_url": ""}
+{"action": "orgoro/coverage-report-action", "versions": ["v1"], "request_url": "https://github.com/orgoro/coverage-report-action", "status_code": 404, "redirected_url": ""}
+{"action": "marocchino/sticky-pull-request-comment", "versions": ["v2"], "request_url": "https://github.com/marocchino/sticky-pull-request-comment", "status_code": 200, "redirected_url": ""}
+{"action": "microsoft/tfs-actions/login", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-actions/login", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/tfs-actions/deploy", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-actions/deploy", "status_code": 404, "redirected_url": ""}
+{"action": "Azure/pipelines", "versions": ["v1"], "request_url": "https://github.com/Azure/pipelines", "status_code": 200, "redirected_url": ""}
+{"action": "fjogeleit/http-request-action", "versions": ["v1"], "request_url": "https://github.com/fjogeleit/http-request-action", "status_code": 200, "redirected_url": ""}
+{"action": "atlassian/gajira-trigger-action", "versions": ["v3"], "request_url": "https://github.com/atlassian/gajira-trigger-action", "status_code": 404, "redirected_url": ""}
+{"action": "actions/login", "versions": ["v1"], "request_url": "https://github.com/actions/login", "status_code": 404, "redirected_url": ""}
+{"action": "rachmari/actions-assign-reviewer", "versions": ["v1"], "request_url": "https://github.com/rachmari/actions-assign-reviewer", "status_code": 404, "redirected_url": ""}
+{"action": "andymckay/labeler", "versions": ["v1.0.4"], "request_url": "https://github.com/andymckay/labeler", "status_code": 200, "redirected_url": ""}
+{"action": "trstringer/manual-approve", "versions": ["v1"], "request_url": "https://github.com/trstringer/manual-approve", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/azure-devops-extension-tasks", "versions": ["v1"], "request_url": "https://github.com/microsoft/azure-devops-extension-tasks", "status_code": 200, "redirected_url": ""}
+{"action": "fountainhead/action-wait-for-check", "versions": ["v1"], "request_url": "https://github.com/fountainhead/action-wait-for-check", "status_code": 200, "redirected_url": ""}
+{"action": "coderabbitai/ai-pr-reviewer", "versions": ["latest"], "request_url": "https://github.com/coderabbitai/ai-pr-reviewer", "status_code": 200, "redirected_url": ""}
+{"action": "gittools/actions/gitversion/setup", "versions": ["v0.9.7"], "request_url": "https://github.com/gittools/actions/gitversion/setup", "status_code": 404, "redirected_url": ""}
+{"action": "gittools/actions/gitversion/execute", "versions": ["v0.9.7"], "request_url": "https://github.com/gittools/actions/gitversion/execute", "status_code": 404, "redirected_url": ""}
+{"action": "peter-evans/create-or-update-comment", "versions": ["v2"], "request_url": "https://github.com/peter-evans/create-or-update-comment", "status_code": 200, "redirected_url": ""}
+{"action": "azure/arm-deploy", "versions": ["v1"], "request_url": "https://github.com/azure/arm-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "browser-actions/setup-firefox", "versions": ["v1"], "request_url": "https://github.com/browser-actions/setup-firefox", "status_code": 200, "redirected_url": ""}
+{"action": "atlassian/gajira-login", "versions": ["v3"], "request_url": "https://github.com/atlassian/gajira-login", "status_code": 200, "redirected_url": ""}
+{"action": "atlassian/gajira-comment", "versions": ["v3"], "request_url": "https://github.com/atlassian/gajira-comment", "status_code": 200, "redirected_url": ""}
+{"action": "apache/jmeter", "versions": ["master"], "request_url": "https://github.com/apache/jmeter", "status_code": 200, "redirected_url": ""}
+{"action": "zaproxy/action-start", "versions": ["v1"], "request_url": "https://github.com/zaproxy/action-start", "status_code": 404, "redirected_url": ""}
+{"action": "zaproxy/action-scan", "versions": ["v1"], "request_url": "https://github.com/zaproxy/action-scan", "status_code": 404, "redirected_url": ""}
+{"action": "zaproxy/action-report", "versions": ["v1"], "request_url": "https://github.com/zaproxy/action-report", "status_code": 404, "redirected_url": ""}
+{"action": "chef/chef-github-actions/login-to-chef-server", "versions": ["v1"], "request_url": "https://github.com/chef/chef-github-actions/login-to-chef-server", "status_code": 404, "redirected_url": ""}
+{"action": "chef/chef-github-actions/add-run-list-to-node", "versions": ["v1"], "request_url": "https://github.com/chef/chef-github-actions/add-run-list-to-node", "status_code": 404, "redirected_url": ""}
+{"action": "JetBrains/dotnet-tools-installer", "versions": ["v1"], "request_url": "https://github.com/JetBrains/dotnet-tools-installer", "status_code": 404, "redirected_url": ""}
+{"action": "peaceiris/actions-hugo", "versions": ["v2"], "request_url": "https://github.com/peaceiris/actions-hugo", "status_code": 200, "redirected_url": ""}
+{"action": "jurplel/install-qt-action", "versions": ["v2"], "request_url": "https://github.com/jurplel/install-qt-action", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/aws-cloudformation-github-deploy", "versions": ["v1"], "request_url": "https://github.com/aws-actions/aws-cloudformation-github-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "coverallsapp/coveralls-badge-sync", "versions": ["v1"], "request_url": "https://github.com/coverallsapp/coveralls-badge-sync", "status_code": 404, "redirected_url": ""}
+{"action": "game-ci/unity-builder", "versions": ["v3"], "request_url": "https://github.com/game-ci/unity-builder", "status_code": 200, "redirected_url": ""}
+{"action": "azure/get-keyvault-secrets", "versions": ["v1"], "request_url": "https://github.com/azure/get-keyvault-secrets", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-elixir", "versions": ["v1"], "request_url": "https://github.com/actions/setup-elixir", "status_code": 200, "redirected_url": ""}
+{"action": "wzieba/AppCenter-Login", "versions": ["v1"], "request_url": "https://github.com/wzieba/AppCenter-Login", "status_code": 404, "redirected_url": ""}
+{"action": "actions-rs/toolchain", "versions": ["v1"], "request_url": "https://github.com/actions-rs/toolchain", "status_code": 200, "redirected_url": ""}
+{"action": "LouisBrunner/checks-action", "versions": ["v1"], "request_url": "https://github.com/LouisBrunner/checks-action", "status_code": 200, "redirected_url": ""}
+{"action": "Mattraks/delete-workflow-runs", "versions": ["v2"], "request_url": "https://github.com/Mattraks/delete-workflow-runs", "status_code": 200, "redirected_url": ""}
+{"action": "maiconhellmann/hudson-report-action", "versions": ["v1"], "request_url": "https://github.com/maiconhellmann/hudson-report-action", "status_code": 404, "redirected_url": ""}
+{"action": "azure/CLI", "versions": ["v1"], "request_url": "https://github.com/azure/CLI", "status_code": 200, "redirected_url": ""}
+{"action": "bitrise-steplib/bitrise-step-run-workflow", "versions": ["v1"], "request_url": "https://github.com/bitrise-steplib/bitrise-step-run-workflow", "status_code": 404, "redirected_url": ""}
+{"action": "w9jds/firebase-action", "versions": ["v11", "v1", "v11.17.0", "v11.16.0"], "request_url": "https://github.com/w9jds/firebase-action", "status_code": 200, "redirected_url": ""}
+{"action": "ChrisCarini/intellij-code-inspection-github-action", "versions": ["v1.0.4"], "request_url": "https://github.com/ChrisCarini/intellij-code-inspection-github-action", "status_code": 404, "redirected_url": ""}
+{"action": "cypress-io/github-action", "versions": ["v2", "v4"], "request_url": "https://github.com/cypress-io/github-action", "status_code": 200, "redirected_url": ""}
+{"action": "deadsnakes/action", "versions": ["v2.1.1"], "request_url": "https://github.com/deadsnakes/action", "status_code": 200, "redirected_url": ""}
+{"action": "supercharge/mongodb-github-action", "versions": ["1.8.0"], "request_url": "https://github.com/supercharge/mongodb-github-action", "status_code": 200, "redirected_url": ""}
+{"action": "wix-incubator/sftp-deploy-action", "versions": ["v1.0.0"], "request_url": "https://github.com/wix-incubator/sftp-deploy-action", "status_code": 404, "redirected_url": ""}
+{"action": "some-deployment-action", "versions": ["v1"], "request_url": "https://github.com/some-deployment-action", "status_code": 404, "redirected_url": ""}
+{"action": "some-deploy-action", "versions": ["v1"], "request_url": "https://github.com/some-deploy-action", "status_code": 404, "redirected_url": ""}
+{"action": "bitrise-steplib/bitrise-step-deploy-to-hockeyapp", "versions": ["1"], "request_url": "https://github.com/bitrise-steplib/bitrise-step-deploy-to-hockeyapp", "status_code": 404, "redirected_url": ""}
+{"action": "Azure/functions-action", "versions": ["v1"], "request_url": "https://github.com/Azure/functions-action", "status_code": 200, "redirected_url": ""}
+{"action": "dawidd6/action-download-artifact", "versions": ["v2"], "request_url": "https://github.com/dawidd6/action-download-artifact", "status_code": 200, "redirected_url": ""}
+{"action": "koddsson/cloudflare-cache-action", "versions": ["v1"], "request_url": "https://github.com/koddsson/cloudflare-cache-action", "status_code": 404, "redirected_url": ""}
+{"action": "azure/setup-kubectl", "versions": ["v1"], "request_url": "https://github.com/azure/setup-kubectl", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-kubernetes-actions", "versions": ["v1"], "request_url": "https://github.com/actions/setup-kubernetes-actions", "status_code": 404, "redirected_url": ""}
+{"action": "kubernetes/update-deployment-action", "versions": ["v1"], "request_url": "https://github.com/kubernetes/update-deployment-action", "status_code": 404, "redirected_url": ""}
+{"action": "potiuk/get-workflow-run-information-action", "versions": ["v1"], "request_url": "https://github.com/potiuk/get-workflow-run-information-action", "status_code": 404, "redirected_url": ""}
+{"action": "bitrise-steplib/bitrise-step-export-test-results", "versions": ["1"], "request_url": "https://github.com/bitrise-steplib/bitrise-step-export-test-results", "status_code": 404, "redirected_url": ""}
+{"action": "bitrise-steplib/bitrise-step-deploy-to-bitrise", "versions": ["1"], "request_url": "https://github.com/bitrise-steplib/bitrise-step-deploy-to-bitrise", "status_code": 404, "redirected_url": ""}
+{"action": "aquasecurity/trivy-action", "versions": ["master", "v0.0.5"], "request_url": "https://github.com/aquasecurity/trivy-action", "status_code": 200, "redirected_url": ""}
+{"action": "NathanVaughn/actions-cloudflare-purge", "versions": ["v1"], "request_url": "https://github.com/NathanVaughn/actions-cloudflare-purge", "status_code": 200, "redirected_url": ""}
+{"action": "jtalk/url-health-check", "versions": ["v2"], "request_url": "https://github.com/jtalk/url-health-check", "status_code": 404, "redirected_url": ""}
+{"action": "actions/cache/save", "versions": ["v3", "v2"], "request_url": "https://github.com/actions/cache/save", "status_code": 404, "redirected_url": ""}
+{"action": "subosito/flutter-action", "versions": ["v2"], "request_url": "https://github.com/subosito/flutter-action", "status_code": 200, "redirected_url": ""}
+{"action": "codemagic-ci-cd/cli-action", "versions": ["v1"], "request_url": "https://github.com/codemagic-ci-cd/cli-action", "status_code": 404, "redirected_url": ""}
+{"action": "hashicorp/setup-terraform", "versions": ["v2", "v1"], "request_url": "https://github.com/hashicorp/setup-terraform", "status_code": 200, "redirected_url": ""}
+{"action": "distributhor/workflow-webhook", "versions": ["v1"], "request_url": "https://github.com/distributhor/workflow-webhook", "status_code": 200, "redirected_url": ""}
+{"action": "embeddable-build-status-embed/embeddable-build-status-action", "versions": ["v1"], "request_url": "https://github.com/embeddable-build-status-embed/embeddable-build-status-action", "status_code": 404, "redirected_url": ""}
+{"action": "appleboy/lambda-action", "versions": ["v1"], "request_url": "https://github.com/appleboy/lambda-action", "status_code": 200, "redirected_url": ""}
+{"action": "bitrise-io/deploy-to-bitrise-io", "versions": ["v1"], "request_url": "https://github.com/bitrise-io/deploy-to-bitrise-io", "status_code": 404, "redirected_url": ""}
+{"action": "SonarCloud/sonarcloud-github-action", "versions": ["master"], "request_url": "https://github.com/SonarCloud/sonarcloud-github-action", "status_code": 404, "redirected_url": ""}
+{"action": "mikefarah/yq", "versions": ["v4.25.1"], "request_url": "https://github.com/mikefarah/yq", "status_code": 200, "redirected_url": ""}
+{"action": "myrotvorets/set-commit-status-action", "versions": ["v2", "v1"], "request_url": "https://github.com/myrotvorets/set-commit-status-action", "status_code": 200, "redirected_url": ""}
+{"action": "nevercode-ci/actions/setup", "versions": ["master"], "request_url": "https://github.com/nevercode-ci/actions/setup", "status_code": 404, "redirected_url": ""}
+{"action": "nevercode-ci/actions/upload", "versions": ["master"], "request_url": "https://github.com/nevercode-ci/actions/upload", "status_code": 404, "redirected_url": ""}
+{"action": "azure/functions-action", "versions": ["v1"], "request_url": "https://github.com/azure/functions-action", "status_code": 200, "redirected_url": ""}
+{"action": "paulhatch/semantic-version", "versions": ["v4.0.0", "v5.0.2"], "request_url": "https://github.com/paulhatch/semantic-version", "status_code": 200, "redirected_url": ""}
+{"action": "gradle/wrapper-validation-action", "versions": ["v1"], "request_url": "https://github.com/gradle/wrapper-validation-action", "status_code": 200, "redirected_url": ""}
+{"action": "elm-tooling/setup-elm", "versions": ["v1"], "request_url": "https://github.com/elm-tooling/setup-elm", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/azure-devops-extension-file-transform", "versions": ["v1"], "request_url": "https://github.com/microsoft/azure-devops-extension-file-transform", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/powerbi-actions/login", "versions": ["v1"], "request_url": "https://github.com/microsoft/powerbi-actions/login", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/powerbi-actions/publish", "versions": ["v1"], "request_url": "https://github.com/microsoft/powerbi-actions/publish", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/powerbi-actions/update-dataset-connection", "versions": ["v1"], "request_url": "https://github.com/microsoft/powerbi-actions/update-dataset-connection", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/powerbi-actions/refresh-dataset", "versions": ["v1"], "request_url": "https://github.com/microsoft/powerbi-actions/refresh-dataset", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/powerbi-actions/logout", "versions": ["v1"], "request_url": "https://github.com/microsoft/powerbi-actions/logout", "status_code": 404, "redirected_url": ""}
+{"action": "ncipollo/release-action", "versions": ["v1"], "request_url": "https://github.com/ncipollo/release-action", "status_code": 200, "redirected_url": ""}
+{"action": "microsoft/iis-deployment-action", "versions": ["v1"], "request_url": "https://github.com/microsoft/iis-deployment-action", "status_code": 404, "redirected_url": ""}
+{"action": "macstadium/orka-action", "versions": ["v1"], "request_url": "https://github.com/macstadium/orka-action", "status_code": 404, "redirected_url": ""}
+{"action": "stefanprodan/yq-action", "versions": ["v2"], "request_url": "https://github.com/stefanprodan/yq-action", "status_code": 404, "redirected_url": ""}
+{"action": "jtalk/checkstyle-action", "versions": ["v2"], "request_url": "https://github.com/jtalk/checkstyle-action", "status_code": 404, "redirected_url": ""}
+{"action": "azure/sql-action", "versions": ["v1", "v2"], "request_url": "https://github.com/azure/sql-action", "status_code": 200, "redirected_url": ""}
+{"action": "darling-data/SSRS-Deployment", "versions": ["main"], "request_url": "https://github.com/darling-data/SSRS-Deployment", "status_code": 404, "redirected_url": ""}
+{"action": "actions/artifact-deployer", "versions": ["v1"], "request_url": "https://github.com/actions/artifact-deployer", "status_code": 404, "redirected_url": ""}
+{"action": "actions/create-github-repository", "versions": ["v1"], "request_url": "https://github.com/actions/create-github-repository", "status_code": 404, "redirected_url": ""}
+{"action": "MishaKav/jest-coverage-comment", "versions": ["v1"], "request_url": "https://github.com/MishaKav/jest-coverage-comment", "status_code": 200, "redirected_url": ""}
+{"action": "tj-actions/coverage-badge-py", "versions": ["v1.4"], "request_url": "https://github.com/tj-actions/coverage-badge-py", "status_code": 200, "redirected_url": ""}
+{"action": "shimataro/ssh-key-action", "versions": ["v2"], "request_url": "https://github.com/shimataro/ssh-key-action", "status_code": 200, "redirected_url": ""}
+{"action": "google-github-actions/upload-cloud-storage", "versions": ["v0"], "request_url": "https://github.com/google-github-actions/upload-cloud-storage", "status_code": 200, "redirected_url": ""}
+{"action": "google-github-actions/google-drive-actions", "versions": ["v0"], "request_url": "https://github.com/google-github-actions/google-drive-actions", "status_code": 404, "redirected_url": ""}
+{"action": "gh-actions-google-drive-upload", "versions": ["v1"], "request_url": "https://github.com/gh-actions-google-drive-upload", "status_code": 404, "redirected_url": ""}
+{"action": "s0/git-publish-subdir-action", "versions": ["master"], "request_url": "https://github.com/s0/git-publish-subdir-action", "status_code": 200, "redirected_url": ""}
+{"action": "cicirello/jacoco-badge-generator", "versions": ["v2"], "request_url": "https://github.com/cicirello/jacoco-badge-generator", "status_code": 200, "redirected_url": ""}
+{"action": "microsoft/appcenter", "versions": ["v1"], "request_url": "https://github.com/microsoft/appcenter", "status_code": 200, "redirected_url": ""}
+{"action": "Azure/devops-action", "versions": ["v1"], "request_url": "https://github.com/Azure/devops-action", "status_code": 404, "redirected_url": ""}
+{"action": "dart-lang/setup-dart", "versions": ["v1"], "request_url": "https://github.com/dart-lang/setup-dart", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-svn", "versions": ["v1"], "request_url": "https://github.com/actions/setup-svn", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/tfs-action", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-action", "status_code": 404, "redirected_url": ""}
+{"action": "benchmark-action/github-action-benchmark", "versions": ["v1"], "request_url": "https://github.com/benchmark-action/github-action-benchmark", "status_code": 200, "redirected_url": ""}
+{"action": "peaceiris/actions-mdbook", "versions": ["v1"], "request_url": "https://github.com/peaceiris/actions-mdbook", "status_code": 200, "redirected_url": ""}
+{"action": "slackapi/slack-github-action", "versions": ["v1.18.0"], "request_url": "https://github.com/slackapi/slack-github-action", "status_code": 200, "redirected_url": ""}
+{"action": "goreleaser/goreleaser-action", "versions": ["v3", "v2"], "request_url": "https://github.com/goreleaser/goreleaser-action", "status_code": 200, "redirected_url": ""}
+{"action": "google-github-actions/get-gke-credentials", "versions": ["v0"], "request_url": "https://github.com/google-github-actions/get-gke-credentials", "status_code": 200, "redirected_url": ""}
+{"action": "actions/setup-cli", "versions": ["v1"], "request_url": "https://github.com/actions/setup-cli", "status_code": 404, "redirected_url": ""}
+{"action": "crazy-max/ghaction-import-gpg", "versions": ["v4", "v3"], "request_url": "https://github.com/crazy-max/ghaction-import-gpg", "status_code": 200, "redirected_url": ""}
+{"action": "apple-actions/import-codesign-certs", "versions": ["v1"], "request_url": "https://github.com/apple-actions/import-codesign-certs", "status_code": 200, "redirected_url": ""}
+{"action": "devbots/notarize", "versions": ["v1"], "request_url": "https://github.com/devbots/notarize", "status_code": 404, "redirected_url": ""}
+{"action": "netlify/actions/cli", "versions": ["master"], "request_url": "https://github.com/netlify/actions/cli", "status_code": 404, "redirected_url": ""}
+{"action": "olafurpg/setup-scala", "versions": ["v13"], "request_url": "https://github.com/olafurpg/setup-scala", "status_code": 200, "redirected_url": ""}
+{"action": "actions/labeler", "versions": ["v4"], "request_url": "https://github.com/actions/labeler", "status_code": 200, "redirected_url": ""}
+{"action": "actions/assign-to-user", "versions": ["v1"], "request_url": "https://github.com/actions/assign-to-user", "status_code": 404, "redirected_url": ""}
+{"action": "azure/ARMDeploy", "versions": ["v1"], "request_url": "https://github.com/azure/ARMDeploy", "status_code": 404, "redirected_url": ""}
+{"action": "actions/publish-action", "versions": ["v1"], "request_url": "https://github.com/actions/publish-action", "status_code": 200, "redirected_url": ""}
+{"action": "ahmadnassri/action-merge-pr", "versions": ["v2"], "request_url": "https://github.com/ahmadnassri/action-merge-pr", "status_code": 404, "redirected_url": ""}
+{"action": "canastro/copy-file-action", "versions": ["v1"], "request_url": "https://github.com/canastro/copy-file-action", "status_code": 200, "redirected_url": "https://github.com/canastro/copy-action"}
+{"action": "renovatebot/github-action", "versions": ["v1"], "request_url": "https://github.com/renovatebot/github-action", "status_code": 200, "redirected_url": ""}
+{"action": "samkirkland/ftp-deploy-action", "versions": ["3.1.1"], "request_url": "https://github.com/samkirkland/ftp-deploy-action", "status_code": 200, "redirected_url": ""}
+{"action": "jidicula/clang-tidy-action", "versions": ["v1"], "request_url": "https://github.com/jidicula/clang-tidy-action", "status_code": 404, "redirected_url": ""}
+{"action": "dependabot/fetch-metadata", "versions": ["v1"], "request_url": "https://github.com/dependabot/fetch-metadata", "status_code": 200, "redirected_url": ""}
+{"action": "ilammy/msvc-dev-cmd", "versions": ["v1"], "request_url": "https://github.com/ilammy/msvc-dev-cmd", "status_code": 200, "redirected_url": ""}
+{"action": "google-github-actions/compute-start-vm", "versions": ["v1"], "request_url": "https://github.com/google-github-actions/compute-start-vm", "status_code": 404, "redirected_url": ""}
+{"action": "postmanlabs/newman-action", "versions": ["v1.0.0", "v1.0"], "request_url": "https://github.com/postmanlabs/newman-action", "status_code": 404, "redirected_url": ""}
+{"action": "andymckay/cancel-action", "versions": ["0.2"], "request_url": "https://github.com/andymckay/cancel-action", "status_code": 200, "redirected_url": ""}
+{"action": "juliangruber/sleep-action", "versions": ["v1"], "request_url": "https://github.com/juliangruber/sleep-action", "status_code": 200, "redirected_url": ""}
+{"action": "sc-actions/espresso-report", "versions": ["v1"], "request_url": "https://github.com/sc-actions/espresso-report", "status_code": 404, "redirected_url": ""}
+{"action": "azure/static-web-apps-deploy", "versions": ["v1"], "request_url": "https://github.com/azure/static-web-apps-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "chromaui/action", "versions": ["v1"], "request_url": "https://github.com/chromaui/action", "status_code": 200, "redirected_url": ""}
+{"action": "Azure/static-web-apps-deploy", "versions": ["v1"], "request_url": "https://github.com/Azure/static-web-apps-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "platformsh/actions/login", "versions": ["v1"], "request_url": "https://github.com/platformsh/actions/login", "status_code": 404, "redirected_url": ""}
+{"action": "apple-actions/upload-testflight-build", "versions": ["v1"], "request_url": "https://github.com/apple-actions/upload-testflight-build", "status_code": 200, "redirected_url": ""}
+{"action": "wzieba/Firebase-Distribution-Github-Action", "versions": ["v1"], "request_url": "https://github.com/wzieba/Firebase-Distribution-Github-Action", "status_code": 200, "redirected_url": ""}
+{"action": "appleboy/wait-for-port", "versions": ["v1"], "request_url": "https://github.com/appleboy/wait-for-port", "status_code": 404, "redirected_url": ""}
+{"action": "xu-cheng/latex-action", "versions": ["v2"], "request_url": "https://github.com/xu-cheng/latex-action", "status_code": 200, "redirected_url": ""}
+{"action": "pa11y/pa11y-action", "versions": ["v1.3.0"], "request_url": "https://github.com/pa11y/pa11y-action", "status_code": 404, "redirected_url": ""}
+{"action": "laravel/pint", "versions": ["main"], "request_url": "https://github.com/laravel/pint", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/deploy-lambda", "versions": ["v1"], "request_url": "https://github.com/aws-actions/deploy-lambda", "status_code": 404, "redirected_url": ""}
+{"action": "aws-actions/deploy-api-gateway", "versions": ["v1"], "request_url": "https://github.com/aws-actions/deploy-api-gateway", "status_code": 404, "redirected_url": ""}
+{"action": "pypa/cibuildwheel", "versions": ["v2.3.1"], "request_url": "https://github.com/pypa/cibuildwheel", "status_code": 200, "redirected_url": ""}
+{"action": "google-github-actions/upload-google-drive", "versions": ["v1"], "request_url": "https://github.com/google-github-actions/upload-google-drive", "status_code": 404, "redirected_url": ""}
+{"action": "kubernetes/login-action", "versions": ["v1"], "request_url": "https://github.com/kubernetes/login-action", "status_code": 404, "redirected_url": ""}
+{"action": "trufflesecurity/truffleHog", "versions": ["v3"], "request_url": "https://github.com/trufflesecurity/truffleHog", "status_code": 200, "redirected_url": ""}
+{"action": "dorny/dotnet-tests-report", "versions": ["v1"], "request_url": "https://github.com/dorny/dotnet-tests-report", "status_code": 404, "redirected_url": ""}
+{"action": "aws-actions/aws-codebuild-run-build", "versions": ["v1"], "request_url": "https://github.com/aws-actions/aws-codebuild-run-build", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/download-codebuild-artifact", "versions": ["v1"], "request_url": "https://github.com/aws-actions/download-codebuild-artifact", "status_code": 404, "redirected_url": ""}
+{"action": "dorny/paths-filter", "versions": ["v2"], "request_url": "https://github.com/dorny/paths-filter", "status_code": 200, "redirected_url": ""}
+{"action": "egor-tensin/setup-gcc", "versions": ["v1"], "request_url": "https://github.com/egor-tensin/setup-gcc", "status_code": 200, "redirected_url": ""}
+{"action": "stefanprodan/portainer-deploy-action", "versions": ["v1"], "request_url": "https://github.com/stefanprodan/portainer-deploy-action", "status_code": 404, "redirected_url": ""}
+{"action": "FirebaseExtended/action-hosting-deploy", "versions": ["v0"], "request_url": "https://github.com/FirebaseExtended/action-hosting-deploy", "status_code": 200, "redirected_url": ""}
+{"action": "zaproxy/action-ajax-spider", "versions": ["v0.3.0"], "request_url": "https://github.com/zaproxy/action-ajax-spider", "status_code": 404, "redirected_url": ""}
+{"action": "zaproxy/action-baseline", "versions": ["v0.4.0"], "request_url": "https://github.com/zaproxy/action-baseline", "status_code": 200, "redirected_url": ""}
+{"action": "jakejarvis/wget-action", "versions": ["v0.1.0"], "request_url": "https://github.com/jakejarvis/wget-action", "status_code": 404, "redirected_url": ""}
+{"action": "browser-actions/setup-ie11", "versions": ["v1"], "request_url": "https://github.com/browser-actions/setup-ie11", "status_code": 404, "redirected_url": ""}
+{"action": "browser-actions/stop-ie11", "versions": ["v1"], "request_url": "https://github.com/browser-actions/stop-ie11", "status_code": 404, "redirected_url": ""}
+{"action": "expo/expo-github-action", "versions": ["v6"], "request_url": "https://github.com/expo/expo-github-action", "status_code": 200, "redirected_url": ""}
+{"action": "treosh/lighthouse-ci-action", "versions": ["v9"], "request_url": "https://github.com/treosh/lighthouse-ci-action", "status_code": 200, "redirected_url": ""}
+{"action": "ros-tooling/setup-ros", "versions": ["v0.3"], "request_url": "https://github.com/ros-tooling/setup-ros", "status_code": 200, "redirected_url": ""}
+{"action": "miracum/vpn-action", "versions": ["v1"], "request_url": "https://github.com/miracum/vpn-action", "status_code": 404, "redirected_url": ""}
+{"action": "owner/private-repo/.github/actions/composite-action", "versions": ["main"], "request_url": "https://github.com/owner/private-repo/.github/actions/composite-action", "status_code": 404, "redirected_url": ""}
+{"action": "Andro999b/git-merge-templates", "versions": ["v1"], "request_url": "https://github.com/Andro999b/git-merge-templates", "status_code": 404, "redirected_url": ""}
+{"action": "my-org/my-action", "versions": ["v1.x"], "request_url": "https://github.com/my-org/my-action", "status_code": 404, "redirected_url": ""}
+{"action": "GitGuardian/ggshield-action", "versions": ["v1"], "request_url": "https://github.com/GitGuardian/ggshield-action", "status_code": 200, "redirected_url": ""}
+{"action": "dawidd6/action-delete-branch", "versions": ["v3"], "request_url": "https://github.com/dawidd6/action-delete-branch", "status_code": 200, "redirected_url": ""}
+{"action": "octokit/request-action", "versions": ["v2.x"], "request_url": "https://github.com/octokit/request-action", "status_code": 200, "redirected_url": ""}
+{"action": "peter-murray/node-problem-detector-action", "versions": ["v1"], "request_url": "https://github.com/peter-murray/node-problem-detector-action", "status_code": 404, "redirected_url": ""}
+{"action": "allure-framework/allure-action", "versions": ["v2"], "request_url": "https://github.com/allure-framework/allure-action", "status_code": 200, "redirected_url": ""}
+{"action": "azure/k8s-set-context", "versions": ["v1"], "request_url": "https://github.com/azure/k8s-set-context", "status_code": 200, "redirected_url": ""}
+{"action": "emibcn/badge-action", "versions": ["v1"], "request_url": "https://github.com/emibcn/badge-action", "status_code": 200, "redirected_url": ""}
+{"action": "stefanzweifel/git-auto-commit-action", "versions": ["v4"], "request_url": "https://github.com/stefanzweifel/git-auto-commit-action", "status_code": 200, "redirected_url": ""}
+{"action": "aws-actions/amazon-ecs-run-task", "versions": ["v1"], "request_url": "https://github.com/aws-actions/amazon-ecs-run-task", "status_code": 404, "redirected_url": ""}
+{"action": "actions/setup-jekyll", "versions": ["v1"], "request_url": "https://github.com/actions/setup-jekyll", "status_code": 404, "redirected_url": ""}
+{"action": "rancher/login-action", "versions": ["v1"], "request_url": "https://github.com/rancher/login-action", "status_code": 404, "redirected_url": ""}
+{"action": "rancher/exec-action", "versions": ["v1"], "request_url": "https://github.com/rancher/exec-action", "status_code": 404, "redirected_url": ""}
+{"action": "gradle/gradle-build-action", "versions": ["v2"], "request_url": "https://github.com/gradle/gradle-build-action", "status_code": 200, "redirected_url": ""}
+{"action": "scottbrenner/nunit-test-results-action", "versions": ["v1"], "request_url": "https://github.com/scottbrenner/nunit-test-results-action", "status_code": 404, "redirected_url": ""}
+{"action": "romeovs/lcov-reporter-action", "versions": ["v0.2.16"], "request_url": "https://github.com/romeovs/lcov-reporter-action", "status_code": 200, "redirected_url": ""}
+{"action": "cycjimmy/semantic-release-action", "versions": ["v3"], "request_url": "https://github.com/cycjimmy/semantic-release-action", "status_code": 200, "redirected_url": ""}
+{"action": "graalvm/setup-graalvm", "versions": ["v1"], "request_url": "https://github.com/graalvm/setup-graalvm", "status_code": 200, "redirected_url": ""}
+{"action": "reviewdog/action-suggester", "versions": ["v1"], "request_url": "https://github.com/reviewdog/action-suggester", "status_code": 200, "redirected_url": ""}
+{"action": "DoozyX/clang-format-lint-action", "versions": ["v0.13"], "request_url": "https://github.com/DoozyX/clang-format-lint-action", "status_code": 200, "redirected_url": ""}
+{"action": "kubectl-actions/kubectl", "versions": ["v1"], "request_url": "https://github.com/kubectl-actions/kubectl", "status_code": 404, "redirected_url": ""}
+{"action": "terraform-linters/setup-tflint", "versions": ["v3"], "request_url": "https://github.com/terraform-linters/setup-tflint", "status_code": 200, "redirected_url": ""}
+{"action": "vercel/vercel-github-action", "versions": ["v1"], "request_url": "https://github.com/vercel/vercel-github-action", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/tfs-rest-api-action", "versions": ["v1"], "request_url": "https://github.com/microsoft/tfs-rest-api-action", "status_code": 404, "redirected_url": ""}
+{"action": "blackducksoftware/github-actions-synopsys-detect", "versions": ["main"], "request_url": "https://github.com/blackducksoftware/github-actions-synopsys-detect", "status_code": 404, "redirected_url": ""}
+{"action": "llvm/setup-llvm", "versions": ["v1"], "request_url": "https://github.com/llvm/setup-llvm", "status_code": 404, "redirected_url": ""}
+{"action": "dotenv-linter/action-dotenv", "versions": ["v2"], "request_url": "https://github.com/dotenv-linter/action-dotenv", "status_code": 404, "redirected_url": ""}
+{"action": "actions/login-action", "versions": ["v1"], "request_url": "https://github.com/actions/login-action", "status_code": 404, "redirected_url": ""}
+{"action": "GoogleCloudPlatform/github-actions/setup-cloud-sql-proxy", "versions": ["v0"], "request_url": "https://github.com/GoogleCloudPlatform/github-actions/setup-cloud-sql-proxy", "status_code": 404, "redirected_url": ""}
+{"action": "github/codeql-action/init", "versions": ["v2"], "request_url": "https://github.com/github/codeql-action/init", "status_code": 404, "redirected_url": ""}
+{"action": "github/codeql-action/autobuild", "versions": ["v2"], "request_url": "https://github.com/github/codeql-action/autobuild", "status_code": 404, "redirected_url": ""}
+{"action": "github/codeql-action/analyze", "versions": ["v2"], "request_url": "https://github.com/github/codeql-action/analyze", "status_code": 404, "redirected_url": ""}
+{"action": "github/codeql-action/run-queries", "versions": ["v2"], "request_url": "https://github.com/github/codeql-action/run-queries", "status_code": 404, "redirected_url": ""}
+{"action": "github-changelog-generator/github-changelog-generator-action", "versions": ["v2.4"], "request_url": "https://github.com/github-changelog-generator/github-changelog-generator-action", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/appcenter-cli-action", "versions": ["v1"], "request_url": "https://github.com/microsoft/appcenter-cli-action", "status_code": 404, "redirected_url": ""}
+{"action": "irongut/CodeCoverageSummary", "versions": ["v1"], "request_url": "https://github.com/irongut/CodeCoverageSummary", "status_code": 200, "redirected_url": ""}
+{"action": "gaurav-nelson/github-action-yaml-parser", "versions": ["v1"], "request_url": "https://github.com/gaurav-nelson/github-action-yaml-parser", "status_code": 404, "redirected_url": ""}
+{"action": "cpanel-uploader/cpanel-deploy-action", "versions": ["v1"], "request_url": "https://github.com/cpanel-uploader/cpanel-deploy-action", "status_code": 404, "redirected_url": ""}
+{"action": "kubescape/github-action", "versions": ["main"], "request_url": "https://github.com/kubescape/github-action", "status_code": 200, "redirected_url": ""}
+{"action": "NuGet/NuGetGallery", "versions": ["master"], "request_url": "https://github.com/NuGet/NuGetGallery", "status_code": 200, "redirected_url": ""}
+{"action": "myci/keepalive", "versions": ["v1"], "request_url": "https://github.com/myci/keepalive", "status_code": 404, "redirected_url": ""}
+{"action": "UnrealEngine/setup-unreal-engine", "versions": ["v1"], "request_url": "https://github.com/UnrealEngine/setup-unreal-engine", "status_code": 404, "redirected_url": ""}
+{"action": "argoproj/argo-cd", "versions": ["v1"], "request_url": "https://github.com/argoproj/argo-cd", "status_code": 200, "redirected_url": ""}
+{"action": "myci/notify-status", "versions": ["v1"], "request_url": "https://github.com/myci/notify-status", "status_code": 404, "redirected_url": ""}
+{"action": "actions/k8s-deploy", "versions": ["v1"], "request_url": "https://github.com/actions/k8s-deploy", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/app-center-actions", "versions": ["v1"], "request_url": "https://github.com/microsoft/app-center-actions", "status_code": 404, "redirected_url": ""}
+{"action": "actions-ecosystem/action-get-latest-tag", "versions": ["v1"], "request_url": "https://github.com/actions-ecosystem/action-get-latest-tag", "status_code": 200, "redirected_url": ""}
+{"action": "docker/promote-action", "versions": ["v1"], "request_url": "https://github.com/docker/promote-action", "status_code": 404, "redirected_url": ""}
+{"action": "google-github-actions/deploy-cloudrun", "versions": ["v0"], "request_url": "https://github.com/google-github-actions/deploy-cloudrun", "status_code": 200, "redirected_url": ""}
+{"action": "cucumber/cucumber-actions-report", "versions": ["v1"], "request_url": "https://github.com/cucumber/cucumber-actions-report", "status_code": 404, "redirected_url": ""}
+{"action": "microsoft/powerbi-actions/update-report-name", "versions": ["v1"], "request_url": "https://github.com/microsoft/powerbi-actions/update-report-name", "status_code": 404, "redirected_url": ""}
+{"action": "anothrNick/github-tag-action", "versions": ["1.36.0"], "request_url": "https://github.com/anothrNick/github-tag-action", "status_code": 200, "redirected_url": ""}
+{"action": "sonarsource/sonarcloud-github-action", "versions": ["v1.6"], "request_url": "https://github.com/sonarsource/sonarcloud-github-action", "status_code": 200, "redirected_url": ""}
+{"action": "pozetroninc/github-action-get-latest-release", "versions": ["v0.6.0"], "request_url": "https://github.com/pozetroninc/github-action-get-latest-release", "status_code": 200, "redirected_url": ""}
+{"action": "dawidd6/action-get-workflow-run-id", "versions": ["v2"], "request_url": "https://github.com/dawidd6/action-get-workflow-run-id", "status_code": 404, "redirected_url": ""}
+{"action": "dawidd6/action-re-run-workflow", "versions": ["v2"], "request_url": "https://github.com/dawidd6/action-re-run-workflow", "status_code": 404, "redirected_url": ""}
+{"action": "robinraju/release-downloader", "versions": ["v1"], "request_url": "https://github.com/robinraju/release-downloader", "status_code": 200, "redirected_url": ""}
+{"action": "argoproj-labs/argo-action", "versions": ["v1"], "request_url": "https://github.com/argoproj-labs/argo-action", "status_code": 404, "redirected_url": ""}
+{"action": "google-github-actions/deploy-cloud-functions", "versions": ["v0"], "request_url": "https://github.com/google-github-actions/deploy-cloud-functions", "status_code": 200, "redirected_url": ""}
+{"action": "deepakputhraya/action-pr-title", "versions": ["master"], "request_url": "https://github.com/deepakputhraya/action-pr-title", "status_code": 200, "redirected_url": ""}
+{"action": "mikepenz/xcode-build-action", "versions": ["v1.4"], "request_url": "https://github.com/mikepenz/xcode-build-action", "status_code": 404, "redirected_url": ""}
+{"action": "alex-page/github-project-automation-plus", "versions": ["v0.8.1"], "request_url": "https://github.com/alex-page/github-project-automation-plus", "status_code": 200, "redirected_url": ""}
+{"action": "lukka/get-cmake", "versions": ["latest"], "request_url": "https://github.com/lukka/get-cmake", "status_code": 200, "redirected_url": ""}
+{"action": "actions/send-mail", "versions": ["v1"], "request_url": "https://github.com/actions/send-mail", "status_code": 404, "redirected_url": ""}
+{"action": "actions/create-github-repo", "versions": ["v1"], "request_url": "https://github.com/actions/create-github-repo", "status_code": 404, "redirected_url": ""}
