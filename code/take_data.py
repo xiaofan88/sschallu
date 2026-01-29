@@ -48,12 +48,12 @@ def take_20000_data():
 
 FENCE_RE = re.compile(
     r"""
-    ^(?P<fence>(?P<char>`|~){3,})        # 起始围栏：``` 或 ~~~（长度>=3）
+    ^(?P<fence>(?P<char>`|~){3,})        
     [\t ]*
-    (?P<info>[^\n]*)?                    # info string（语言 + 其他标志，可为空）
+    (?P<info>[^\n]*)?                    
     \n
     (?P<code>.*?)
-    ^(?P=fence)[\t ]*$                   # 结束围栏，需与起始相同长度与字符
+    ^(?P=fence)[\t ]*$                   
     """,
     re.M | re.S | re.X
 )
@@ -76,7 +76,7 @@ def extract_fenced_codeblocks(md_text: str) -> List[Dict]:
         fence_char = m.group("char")
         lang, raw_info = parse_info_string(info)
 
-        # 计算行号（1-based）
+        
         start_idx, end_idx = m.span()
         start_line = md_text.count("\n", 0, start_idx) + 1
         end_line = md_text.count("\n", 0, end_idx) + 1
@@ -102,8 +102,7 @@ def extract_https_links_from_markdown(markdown_text):
 
 
 def extract_output():
-    # file_path = 'together/deepseek/question2_20000_api_deepseek_response.jsonl'
-    file_path = 'gpt5mini/question2_20000_5mini_response.jsonl'
+    file_path = 'together/deepseek/question2_20000_api_deepseek_response.jsonl'
 
     read_list = read_data(file_path)
 
@@ -135,7 +134,7 @@ def extract_output():
             print(link.replace('`', '').replace(';', '').replace('"', '').replace("'", '').replace(',', ''))
             new_obj['link'].append(link.replace('`', '').replace(';', '').replace('"', '').replace("'", '').replace(',', ''))
         
-        WriteData.write_in_path(json.dumps(new_obj), f'gpt5mini/question2_20000_5mini_output')
+        WriteData.write_in_path(json.dumps(new_obj), f'together/deepseek/question2_20000_deepseek_output')
 
 
 # extract_output()
@@ -282,7 +281,7 @@ def extract_perl_packages(code: str, exclude_builtin=True) -> list:
 
 
 def extract_packages_from_output():
-    file_path = 'gpt5mini/question2_20000_5mini_output.json'
+    file_path = 'together/deepseek/question2_20000_deepseek_output.json'
 
     read_list = read_data(file_path)
 
@@ -353,7 +352,7 @@ def extract_packages_from_output():
         new_obj['package_bash'] = {k: list(v) for k, v in package_bash_list.items()}
         new_obj['package'] = {k: list(v) for k, v in package_list.items()}
         new_obj['link'] = json_obj['link']
-        WriteData.write_in_path(json.dumps(new_obj), f'gpt5mini/question2_20000_5mini_package')
+        WriteData.write_in_path(json.dumps(new_obj), f'together/deepseek/question2_20000_deepseek_package')
 
 
 # extract_packages_from_output()
@@ -445,7 +444,7 @@ def request_api(registry, registry_pkg):
 
 
 def request_package_api():
-    file_path = 'gpt5mini/question2_20000_5mini_package.json'
+    file_path = 'together/deepseek/question2_20000_deepseek_package.json'
     read_list = read_data(file_path)
 
     count = 0
@@ -482,14 +481,14 @@ def request_package_api():
         #     result = request_api(registry, registry_pkg)
         #     new_obj['package'][registry] = result
         
-        WriteData.write_in_path(json.dumps(new_obj), f'gpt5mini/question2_20000_5mini_package_api_1')
+        WriteData.write_in_path(json.dumps(new_obj), f'together/deepseek/question2_20000_deepseek_package_api_1')
 
         
 
 # request_package_api()
 
 def get_bash_package():
-    file_path = 'gpt5mini/question2_20000_5mini_package_api_1.json'
+    file_path = 'together/deepseek/question2_20000_deepseek_package_api_1.json'
     read_list = read_data(file_path)
 
     package_list = []
@@ -522,7 +521,7 @@ def get_bash_package():
                     package_obj['registry'] = registry
                     package_obj['package'] = pkg[0]
                     package_obj['status'] = pkg[1]
-                    WriteData.write_in_path(json.dumps(package_obj), f'gpt5mini/question2_20000_5mini_package_api_1_package')
+                    WriteData.write_in_path(json.dumps(package_obj), f'together/deepseek/question2_20000_deepseek_package_api_1_package')
     
     print(len(package_list))
 
@@ -744,7 +743,7 @@ def get_domain_from_link():
     read_list = read_data(file_path)
 
     domain_list = []
-    apikey = 'ef567560d777f0ef637f24acf85c0dc0'  
+    apikey = ''  
 
     for item in read_list:
         json_obj = json.loads(item.strip())
